@@ -1,7 +1,7 @@
 # EShop
 
 #### Description
-基于javaweb开发的简易购物商城系统
+基于java开发的简易购物商城系统
 
 #### Software Architecture
 Software architecture description
